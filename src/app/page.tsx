@@ -1,3 +1,5 @@
+import Problem from '@/components/Problem'
+
 export default function Home() {
-  return <main>Template</main>
+  return <Problem />
 }
